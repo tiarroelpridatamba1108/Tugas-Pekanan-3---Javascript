@@ -1,0 +1,23 @@
+{
+  "name": "tugas-pekanan-3---javascript",
+  "version": "1.0.0",
+  "description": "Tugas Pekanan 3 - Javascript",
+  "main": "index.js",
+  "scripts": {
+    "soal1": "node soal1.js",
+    "soal2": "node soal2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiarroelpridatamba1108/Tugas-Pekanan-3---Javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiarroelpridatamba1108/Tugas-Pekanan-3---Javascript/issues"
+  },
+  "homepage": "https://github.com/tiarroelpridatamba1108/Tugas-Pekanan-3---Javascript#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
